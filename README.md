@@ -21,7 +21,7 @@ Mangle was developed in Golang.
 The first step, as always, is to clone the repo. Before you compile Mangle, you'll need to install the dependencies. To install them, run the following commands:
 
 ```
-go get github.com/Binject/debug/pe
+go install github.com/Binject/debug/pe@latest
 ```
 
 Then build it
