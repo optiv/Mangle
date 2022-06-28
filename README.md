@@ -49,7 +49,7 @@ Usage of ./Mangle:
   -C string
         Path to the file containing the certificate you want to clone
   -I string
-        Path to the orginal file
+        Path to the original file
   -M    Edit the PE file to strip out Go indicators
   -O string
         The new file name

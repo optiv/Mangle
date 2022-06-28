@@ -44,7 +44,7 @@ type FlagOptions struct {
 
 func options() *FlagOptions {
 	outFile := flag.String("O", "", "The new file name")
-	inputFile := flag.String("I", "", "Path to the orginal file")
+	inputFile := flag.String("I", "", "Path to the original file")
 	CertCloner := flag.String("C", "", "Path to the file containing the certificate you want to clone")
 	GoStrip := flag.Bool("M", false, "Edit the PE file to strip out Go indicators")
 	size := flag.Int("S", 0, "How many MBs to increase the file by")
