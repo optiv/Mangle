@@ -1,3 +1,7 @@
+# THIS REPOSITORY HAS BEEN ARCHIVED
+
+To view the latest version of Mangle or to submit an issue, reference https://github.com/Tylous/Mangle.
+
 
 # Mangle
 
